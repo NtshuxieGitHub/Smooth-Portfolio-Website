@@ -26,11 +26,15 @@ import project7 from "../assets/works/project7.png";
 const aboutItems = [
   {
     label: "Projects Done",
-    value: 14,
+    value: 20,
   },
   {
-    label: "Years of Experience",
-    value: 2,
+    label: "Years of Work Experience",
+    value: 3,
+  },
+  {
+    label: "Years of Project Experience",
+    value: 5,
   },
 ];
 
