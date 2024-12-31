@@ -29,11 +29,11 @@ const aboutItems = [
     value: 20,
   },
   {
-    label: "Years of Work Experience",
-    value: 3,
+    label: "Work Experience (Yrs)",
+    value: 2,
   },
   {
-    label: "Years of Project Experience",
+    label: "Project Experience (Yrs)",
     value: 5,
   },
 ];
