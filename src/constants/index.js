@@ -5,7 +5,7 @@ import instagram from "../assets/social-icons/instagram.svg";
 import figma from "../assets/skills/figma.svg";
 import css from "../assets/skills/css.svg";
 import javascript from "../assets/skills/javascript.svg";
-// import node from "../assets/skills/node.svg";
+import node from "../assets/skills/node.svg";
 import express from "../assets/skills/express.svg";
 import mongodb from "../assets/skills/mongodb.jpg";
 import react from "../assets/skills/react.png";
@@ -29,12 +29,8 @@ const aboutItems = [
     value: 20,
   },
   {
-    label: "Work Experience (Yrs)",
-    value: 2,
-  },
-  {
-    label: "Project Experience (Yrs)",
-    value: 5,
+    label: "Professional Experience",
+    value: 2.5,
   },
 ];
 
@@ -193,11 +189,11 @@ const skillItem = [
     label: "JavaScript",
     desc: "Interaction",
   },
-  // {
-  //   imgSrc: node,
-  //   label: "NodeJS",
-  //   desc: "Web Server",
-  // },
+  {
+    imgSrc: node,
+    label: "NodeJS",
+    desc: "Web Server",
+  },
   {
     imgSrc: express,
     label: "ExpressJS",
