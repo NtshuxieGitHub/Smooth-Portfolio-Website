@@ -12,11 +12,17 @@ const About = () => {
       <div className="container">
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-            Hi there! I&apos;m Ntshuxeko, a professional software developer with
-            a knack for creating scalable and fully functional applications.
-            Combining creativity and technical expertise, I can transform your
-            concept into digital a masterpiece with stunning visuals and
-            performance.
+            Hi there! I&apos;m Ntshuxeko, a passionate developer with experience
+            in Software Engineering, Consulting, Business Intelligence, and
+            Application Development.
+          </p>
+
+          <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
+            I&apos;m especially drawn to Web Development and Data Science,
+            currently focused on building both data science systems and
+            full-stack web applications. My goal is to become a full-stack
+            developer focused on building web applications that incorporate data
+            science solutions.
           </p>
 
           <div className="flex flex-wrap items-cnter gap-4 md:gap-7">

@@ -18,7 +18,7 @@ const Footer = () => {
             </h2>
             <ButtonPrimary
               href="mailto:ntshuxekom@ncmatpro.com"
-              label="Start a project with me 🙂"
+              label="Get in contact with me 🙂"
               icon={assets.email}
               classes="reveal-up"
             />

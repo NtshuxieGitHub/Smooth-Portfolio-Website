@@ -44,7 +44,7 @@ const Hero = () => {
             <ButtonPrimary
               label="Analytics CV"
               icon={assets.download_btn}
-              href={assets.analytics_cv}
+              href={assets.analyst_cv}
             />
 
             <ButtonOutline
