@@ -5,6 +5,7 @@
 
 import PropTypes from "prop-types";
 import assets from "../../assets";
+import "../../index.css";
 
 const PortfolioCard = ({ imgSrc, title, tags, projectLink, classes }) => {
   return (
@@ -15,7 +16,12 @@ const PortfolioCard = ({ imgSrc, title, tags, projectLink, classes }) => {
       }
     >
       <figure className="img-box aspect-square rounded-lg mb-4">
-        <img src={imgSrc} alt={title} loading="lazy" className="img-cover" />
+        <img
+          src={imgSrc}
+          alt={title}
+          loading="lazy"
+          className="h-full w-full object-cover"
+        />
       </figure>
 
       <div className="flex items-center justify-between gap-4">

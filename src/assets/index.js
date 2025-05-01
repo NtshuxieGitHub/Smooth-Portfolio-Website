@@ -11,7 +11,8 @@ import me from "./me.png";
 import avatar from "./avatar.jpg";
 import download_btn from "./download_btn.png";
 import scroll_arrow from "./arrow_down_cool.png";
-import cv from "./cv.pdf";
+import developer_cv from "./NC Mathebula Full Stack.pdf";
+import analyst_cv from "./NC Mathebula Analyst.pdf";
 import email from "./email.png";
 
 export default {
@@ -28,6 +29,7 @@ export default {
   avatar,
   download_btn,
   scroll_arrow,
-  cv,
+  developer_cv,
+  analyst_cv,
   email,
 };
